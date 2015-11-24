@@ -1,5 +1,5 @@
 <?php
-namespace kfosoft\yii2\editable;
+namespace kfosoft\yii2\asset;
 
 use yii\web\AssetBundle;
 
